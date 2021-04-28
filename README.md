@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+Hi there 👋👋👋
 
 - 🔭 I’m currently working on ... my bootcamp course & projects.
 - 🌱 I’m currently learning ... HTML5, CSS3, JavaScript, Express, Algorithms, and Api's, Node, Mango, Angular
