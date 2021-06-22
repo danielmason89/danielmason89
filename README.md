@@ -1,4 +1,4 @@
-Hi there 👋👋👋
+Hello there 👋👋👋
 
 - 🔭 Currently, I am enrolled in Savvy coders' bootcamp, and working on different projects to further myself as a web developer.
 - 🌱 I’m always learning more about HTML5/CSS3, JavaScript, React.js, Vue.js,Node.js, Express, Algorithms, Api's and Mangodb.
