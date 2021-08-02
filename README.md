@@ -7,7 +7,7 @@
     - 🌱 I'm currently learning everything 🤣
     - 👯 I'm always looking to collaborate with others in the field 📡
     - 🥅 2021 Goal: Contribute more to Open Source projects
-    - ⚡ Fun fact: I love ☕ coffee and coffee cake, and travelling the world 🌏
+    - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ### 📫 Connect with me:
 
