@@ -11,8 +11,9 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="danielMason | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dusmass)
 [<img align="left" alt="danielMason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-mason-b21675174/)
+[<img align="left" alt="danielMason | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dusmass)
+
 
 <br/>
 
