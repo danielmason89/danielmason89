@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-##A Full stack developer with a focus on the front end, and a life-long learner 📚!
+## A Full stack developer with a focus on the front end, and a life-long learner 📚!
 
     - 🌱 I'm currently enrolled in a Full-stack web development boot-camp, offered by Savvy Coders
     - 👨‍💻 I'm open and available to work as a Front-End or Full-Stack Developer
