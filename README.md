@@ -2,9 +2,9 @@
 
 ## A Full stack developer with a focus on the front end, and a life-long learner 📚!
 
-    - 🌱 I'm currently enrolled in a Full-stack web development boot-camp, offered by Savvy Coders
+    - 🌱 I'am a recent graduate from a Full-stack web development bootcamp, offered by Savvy-Coders
     - 👨‍💻 I'm open and available to work as a Front-End or Full-Stack Developer
-    - 🌱 I'm currently learning everything 🤣
+    - 🌱 I'm currently learning everything 🤣, specifically REact.js and adjacent technology such as firebase, redux, and styled-components
     - 👯 I'm always looking to collaborate with others in the field 📡
     - 🥅 2021 Goal: Contribute more to Open Source projects
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
