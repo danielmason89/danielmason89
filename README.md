@@ -4,7 +4,7 @@
 
     - 🌱 I'am a recent graduate from a Full-stack web development bootcamp, offered by Savvy-Coders
     - 👨‍💻 I'm open and available to work as a Front-End or Full-Stack Developer
-    - 🌱 I'm currently learning everything 🤣, specifically React.js, Firebase, Typescript, MongoDB, Docker, Kubernetes, React-redux, and styled-components
+    - 🌱 I'm currently learning everything 🤣, specifically React.js, Firebase, Typescript, MongoDB, Docker, React-redux, and styled-components
     - 👯 I'm always looking to collaborate with others in the field 📡
     - 🥅 2021 Goal: Contribute more to Open Source projects
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
