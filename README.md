@@ -2,7 +2,7 @@
 
 ## A Full stack developer with a focus on the front end, and a life-long learner 📚!
 
-    - 🌱 Currently working through Skillcrush's pathway, Break into Tech to get interview practise needed to show what I'm capable
+    - 🌱 Currently going through Skillcrush's pathway, Break into Tech to get interview practise needed to show what I'm capable of
     - 🌱 I'am a recent graduate from a Full-stack web development bootcamp, offered by Savvy-Coders
     - 👨‍💻 I'm open and available to work as a Front-End or Full-Stack Developer
     - 🌱 I'm currently learning everything 🤣, specifically React.js, Typescript, Docker, React-redux, and styled-components
