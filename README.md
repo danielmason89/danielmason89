@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-## A Full stack developer with a focus on the front end, and a life-long learner 📚!
+## A front-end developer, and a life-long learner 📚!
 
     - 🌱 Currently going through Skillcrush's pathway, Break into Tech to get interview practise and learn more
     - 🌱 I'am a recent graduate from a Full-stack web development bootcamp, offered by Savvy-Coders
