@@ -3,11 +3,11 @@
 ## A front end developer | life-long learner 📚!
 
     - 🌱 Currently going through Skillcrush's pathway, Break into Tech to get interview practise and learn more
-    - 🌱 I'am a recent graduate from a Full-stack web development bootcamp, offered by Savvy-Coders
-    - 👨‍💻 I'm open and available to work as a Front-End or Full-Stack Developer
+    - 🌱 I'am a recent graduate from Savvy Coders' Full-stack web development bootcamp
+    - 👨‍💻 I'm open and available to work as a Front-End Developer
     - 🌱 I'm currently learning everything 🤣, specifically React.js, Typescript, Docker, React-redux, and styled-components
     - 👯 I'm always looking to collaborate with others in the field 📡
-    - 🥅 2021 Goal: Contribute more to Open Source projects
+    - 🥅 2022 Goal: Contribute more to Open Source projects
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ### 📫 Connect with me:
