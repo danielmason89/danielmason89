@@ -5,7 +5,7 @@
     - 🌱 Currently going through Skillcrush's pathway, Break into Tech to better my interview practise and learn more
     - 🌱 I'am a recent graduate from Savvy Coders' Full-stack web development bootcamp
     - 👨‍💻 I'm open and available to work as a Front-End Developer
-    - 🌱 I'm currently learning everything 🤣; Ruby, React.js, Typescript, Docker, React-redux, WordPress, and styled-components
+    - 🌱 I'm learning everything 🤣; Ruby, React.js, Typescript, Docker, React-redux, WordPress, and styled-components
     - 👯 I'm always looking to collaborate with others in the field 📡
     - 🥅 2022 Goal: Contribute more to Open Source projects
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
