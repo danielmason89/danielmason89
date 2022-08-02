@@ -2,7 +2,7 @@
 
 ## A front end developer | life-long learner 📚!
 
-    - 🌱 Currently finishing up Skillcrush's pathway, Break into Tech to better my interview practise and refresh my fundamentals
+    - 🌱 Currently finishing up Skillcrush's pathway, Break into Tech to better my interview skills
     - 🌱 I am a graduate from Savvy Coders' Full-stack web development bootcamp
     - 👨‍💻 I am looking for full-time work as a Front-End Developer
     - 🌱 Learning everything 🤣; Ruby, React.js, Typescript, Docker, React-redux, WordPress, and styled-components
