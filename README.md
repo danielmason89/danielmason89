@@ -3,7 +3,7 @@
 ## A Software Engineer & life-long learner 📚!
 
     - 🌱 Recently became a Sitecoreian, a.k.a Sitecore Software Engineer 
-    - 🌱 A Graduate of Skillcrushs' Break into Tech program & Savvy Coders' Full-Stack Development Bootcamp
+    - 🌱 A Graduate of Skillcrush's Break into Tech program & Savvy Coder's Full-Stack Development Bootcamp
 
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time🤣 
          i.e (Ruby, Learn More about React.js, Elastic, and Redis)
