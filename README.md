@@ -2,12 +2,11 @@
 
 ## A front end developer | life-long learner 📚!
 
-    - 🌱 Currently finishing up Skillcrush's pathway, Break into Tech
-    - 🌱 A Graduate from Savvy Coders' Full-Stack web development Bootcamp
-    - 👨‍💻 Looking for full-time work as a Front-End Developer
-    - 🌱 Learning everything 🤣; Ruby, React.js, Typescript, Docker, React-redux, WordPress, and styled-components
+    - 🌱 Recently became a Sitecoreian, a.k.a Sitecore Software Engineer 
+    - 🌱 A Graduate of Skillcrushs' Break into Tech program & Savvy Coders' Full-Stack Development Bootcamp
+    - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time🤣 i.e (Ruby, Learn More about React.js, Elastic, and Redis)
     - 👯 Always looking to collaborate with others in the field 📡
-    - 🥅 2022 Goal: Contribute more to Open Source projects
+    - 🥅 2022 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ### 📫 Connect with me:
