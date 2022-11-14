@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-## A front end developer | life-long learner 📚!
+## A Software Engineer & life-long learner 📚!
 
     - 🌱 Recently became a Sitecoreian, a.k.a Sitecore Software Engineer 
     - 🌱 A Graduate of Skillcrushs' Break into Tech program & Savvy Coders' Full-Stack Development Bootcamp
