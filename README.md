@@ -1,12 +1,11 @@
 ### Hi there, I'm Daniel 👋
 
 ## A Software Engineer & life-long learner 📚!
-
-    - 🌱 Recently became a Sitecoreian, a.k.a Sitecore Software Engineer 
-    - 🌱 A Graduate of Skillcrush's Break into Tech program & Savvy Coder's Full-Stack Development Bootcamp
+ 
+    - 🌱 An Alumni of Skillcrush's Break into Tech program & Savvy Coder's Full-Stack Development Bootcamp
 
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time🤣 
-         i.e (Ruby, Learn More about React.js, Elastic, and Redis)
+         i.e (Ruby, Learn More about React.js, Elastic, Redis, Next, and Python)
     - 👯 Always looking to collaborate with others in the field 📡
 
     - 🥅 2022 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
