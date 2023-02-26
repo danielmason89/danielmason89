@@ -8,7 +8,7 @@
          i.e (Ruby, Learn More about React.js, Elastic, Redis, Next, and Python)
     - 👯 Always looking to collaborate with others in the field 📡
 
-    - 🥅 2022 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
+    - 🥅 2023 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ### 📫 Connect with me:
