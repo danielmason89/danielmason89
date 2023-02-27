@@ -1,6 +1,6 @@
 ### <h1>Hi there👋 - I'm Daniel</h1> 
 
-## <h3>A Full Stack Software Engineer & Life-long Learner from Canada 📚!</h3>
+## <h3>A Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
  
     - 🌱 An Alumni of Skillcrush's Break into Tech program & Savvy Coder's Full-Stack Development Bootcamp
 
