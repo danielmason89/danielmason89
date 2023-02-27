@@ -11,11 +11,12 @@
     - 🥅 2023 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
-### 📫 Connect with me:
+### <h3 align="left">📫 Connect with me:</h3>
 
-[<img align="left" alt="danielMason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-mason-b21675174/)
-[<img align="left" alt="danielMason | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dusmass)
-
+[<p align="left">
+<a href="https://twitter.com/dusmass" target="blank"><img align="center" alt="Daniel Masons' Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
+</p>]
 
 <br/>
 
