@@ -2,10 +2,10 @@
 
 ## <h3>A Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
  
-    - 🌱 An Alumni of Skillcrush's Break into Tech program & Savvy Coder's Full-Stack Development Bootcamp
+    - 🌱 Skillcrush, Break into Tech & Savvy Coder, Full-Stack Alumni
 
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time🤣 
-         i.e (Ruby, Learn More about React.js, Elastic, Redis, Next, and Python)
+         i.e (Ruby, Learn More about Next.js & Vue.js, Elastic, Redis, and Python)
     - 👯 Always looking to collaborate with others in the field 📡
 
     - 🥅 2023 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
