@@ -1,8 +1,8 @@
-### <h1>Hi there👋 - I'm Daniel</h1> 
+### <h1>Hello there👋 - I'm Daniel Mason</h1> 
 
 ## <h3>A Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
  
-    - 🌱 Skillcrush, Break into Tech & Savvy Coder, Full-Stack Alumni
+    - 🌱 A Skillcrush, Break into Tech & Savvy Coder, Full-Stack Alumni
 
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time🤣 
          i.e (Ruby, Learn More about Next.js & Vue.js, Elastic, Redis, and Python)
