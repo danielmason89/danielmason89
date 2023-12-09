@@ -1,6 +1,6 @@
-### <h1>Hi there👋, I'm Daniel Mason</h1> 
+### <h1>Hi👋,  I'm Daniel Mason and welcome to my github page.</h1> 
 
-## <h3>A Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
+## <h3>I'm a Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
  
     - 🌱 A Skillcrush, Break into Tech & Savvy Coder, Full-Stack Alumni
 
