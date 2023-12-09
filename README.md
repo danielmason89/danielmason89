@@ -1,4 +1,4 @@
-### <h1>Hello there👋 - I'm Daniel Mason</h1> 
+### <h1>Hello there👋, I'm Daniel Mason</h1> 
 
 ## <h3>A Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
  
