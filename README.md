@@ -1,4 +1,4 @@
-### <h1>Hi👋,  I'm Daniel Mason and welcome to my github page.</h1> 
+### <h1>Hello👋 and welcome to my github page. I'm Daniel Mason.</h1> 
 
 ## <h3>I'm a Full Stack Software Developer & Life-long Learner from Canada 📚!</h3>
  
