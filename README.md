@@ -2,7 +2,7 @@
 
 ## <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
  
-    - 🌱 A Skillcrush - Break into Tech Full-Stack & Savvy Coder - Bootcamp, Full-Stack Alumni
+    - 🌱 A Skillcrush/Savvy Coders Full-Stack WEb Development Bootcamp Alumni
 
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time🤣 
          i.e (Ruby, Learn More about Next.js & Vue.js, Elastic, Redis, and Python)
