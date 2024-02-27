@@ -1,6 +1,6 @@
 ### <h1>Hello👋 and welcome to my github page. I'm Daniel Mason.</h1> 
 
-## <h3>I'm a Full Stack Software Developer/Life-long Learner from Canada 📚!</h3>
+## <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
  
     - 🌱 A Skillcrush - Break into Tech Full-Stack & Savvy Coder - Bootcamp, Full-Stack Alumni
 
