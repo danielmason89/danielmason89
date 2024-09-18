@@ -14,9 +14,12 @@
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ### <h3 align="left">📫 Connect with me:</h3>
+<br/>
 <p align="left">
 <a href="https://www.daniel-mason.dev/" target="blank"><img height="30" width="30" align="center" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" /></a>
+<br/>
 <a href="https://twitter.com/dusmass" target="blank"><img height="30" width="30" align="center" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
+<br/>
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="30" /></a>
 </p>
 
