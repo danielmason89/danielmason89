@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Mason 👋
+<h1>Hi there, I'm Daniel Mason 👋</h1>
 
 ### <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
