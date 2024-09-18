@@ -47,6 +47,24 @@
  
  <!-- <img align="left" alt="GraphQL" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
 
+<script>
+  // Check user's color scheme preference
+  const prefersLightScheme = window.matchMedia('(prefers-color-scheme: light)').matches;
+
+  // Get the image elements
+  const twitterIcon = document.getElementById('twitter-icon');
+  const linkedinIcon = document.getElementById('linkedin-icon');
+
+  // Change the image sources based on the color scheme
+  if (prefersLightScheme) {
+    twitterIcon.src = 'https://path-to-your-light-mode-twitter-icon.svg';
+    linkedinIcon.src = 'https://path-to-your-light-mode-linkedin-icon.svg';
+  } else {
+    twitterIcon.src = 'https://path-to-your-dark-mode-twitter-icon.svg';
+    linkedinIcon.src = 'https://path-to-your-dark-mode-linkedin-icon.svg';
+  }
+</script>
+
 <!-- <img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
 </p>
 <br />
