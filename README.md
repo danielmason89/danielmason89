@@ -17,7 +17,7 @@
 <br/>
 <p align="left">
  <a href="https://twitter.com/dusmass" target="blank"><img height="32" width="32" align="center" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/simpleicons.svg" /></a>
-<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg/blue" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" color="blue" /></a>
 </p>
 
 ### <h3 align="left">Languages and Tools:</h3>
