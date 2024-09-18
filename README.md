@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
 </p>
 
-<br/>
 ## Languages and Tools:
 
 <p align="left">
