@@ -47,7 +47,8 @@
 <a href="https://azure.microsoft.com/en-ca" target="_blank" rel="noreferrer"><img align="left" alt="Azure" width="40" height="40" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure" /></a>
 </p>
 
-<br/>
+### <br/>
+
 <details>
 <summary>:zap: Recent Github ACtivity</summary>
 <!--START_SECTION:activity-->
