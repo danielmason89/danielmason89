@@ -1,16 +1,12 @@
-## <h1>Hello👋 and welcome to my github page. I'm Daniel Mason.</h1>
+### <h1>Hi there, I'm Daniel Mason 👋</h1>
 
 ## <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
  
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
-
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time 
          i.e (Ruby & Ruby-on-rails, Learn More about Next.js & Vue.js, Elastic, Redis, and Python)
-
     - 👯 Always looking to collaborate with others in the field 📡
-
     - 🥅 2024 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
-
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ### <h3 align="left">📫 Connect with me:</h3>
