@@ -1,12 +1,5 @@
 ### <h1>Hi there, I'm Daniel Mason 👋</h1>
 
-### <h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://www.daniel-mason.dev/" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" /></a>
-<a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
-<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
-</p>
-
 ## <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
  
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
@@ -15,6 +8,13 @@
     - 👯 Always looking to collaborate with others in the field 📡
     - 🥅 2024 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
+
+### <h3 align="left">📫 Connect with me:</h3>
+<p align="left">
+<a href="https://www.daniel-mason.dev/" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" /></a>
+<a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
+<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
+</p>
 
 <details>
  <summary>:zap: GitHub Stats</summary>
