@@ -53,3 +53,4 @@
  <summary>:zap: GitHub Stats</summary>
  <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
 </details>
+<!--START_SECTION:activity-->
