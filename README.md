@@ -41,9 +41,9 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<a href="https://github.com/microsoft/terminal" target="_blank" rel="noreferrer"><img align="left" alt="Terminal" width="40" height="40"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
+<a href="https://github.com/microsoft/terminal" target="_blank" rel="noreferrer"><img align="left" alt="Terminal" width="40" height="40"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
  
  <!-- <img align="left" alt="GraphQL" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
 
