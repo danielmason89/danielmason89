@@ -1,11 +1,5 @@
 ### <h1>Hello👋 and welcome to my github page. I'm Daniel Mason.</h1>
 
-<details>
- <summary>:zap: GitHub Stats</summary>
-
- <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
-</details>
-
 ## <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
  
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
@@ -25,6 +19,11 @@
 <a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
 </p>
+
+<details>
+ <summary>:zap: GitHub Stats</summary>
+ <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
+</details>
 
 ### <h3 align="left">Languages and Tools:</h3>
 <p align="left">
