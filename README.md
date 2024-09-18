@@ -17,11 +17,6 @@
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
 </p>
 <br/>
-<details>
- <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
-</details>
-
 ## Languages and Tools:
 
 <p align="left">
@@ -51,5 +46,8 @@
 <a href="https://deno.com/" target="_blank" rel="noreferrer"><img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /></a>
 <a href="https://azure.microsoft.com/en-ca" target="_blank" rel="noreferrer"><img align="left" alt="Azure" width="40" height="40" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure" /></a>
 </p>
-<br />
-<br />
+<br/>
+<details>
+ <summary>:zap: GitHub Stats</summary>
+ <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
+</details>
