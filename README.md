@@ -61,4 +61,4 @@
  <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
 </details>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmason89/danielmason89"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmason89.danielmason89"/>
