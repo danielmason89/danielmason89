@@ -16,8 +16,8 @@
 ### <h3 align="left">📫 Connect with me:</h3>
 <br/>
 <p align="left">
- <a href="https://twitter.com/dusmass" target="blank"><img align="center" alt="Daniel Masons' Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
+ <a href="https://twitter.com/dusmass" target="blank"><img align="center" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg/[DARK_MODE_COLOR]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg/[DARK_MODE_COLOR]" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
 </p>
 
 ### <h3 align="left">Languages and Tools:</h3>
