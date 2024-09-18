@@ -49,8 +49,8 @@
 <a href="https://azure.microsoft.com/en-ca" target="_blank" rel="noreferrer"><img align="left" alt="Azure" width="40" height="40" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure" /></a>
 </p>
 
-<br/ >
-<br/ >
+<br/>
+<br/>
 <details>
  <summary>:zap: GitHub Stats</summary>
  <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
