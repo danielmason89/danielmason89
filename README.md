@@ -26,8 +26,8 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/figma.svg" alt="Figma" width="40" height="40"/></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40" height="40"/></a> 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/></a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img alt="SASS" width="40" height="40" src="https://unpkg.com/simple-icons@v13/icons/sass.svg" /></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a> 
