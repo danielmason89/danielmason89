@@ -3,7 +3,7 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason89&show_icons=true&hide_border=true"/>
+ <img align="left" alt="Daniel Mason's GitHub Stats" src="https://github-readme-stats-nu-three-36.vercel.app/api?username=danielmason&show_icons=true&hide_border=true"/>
 </details>
 
 ## <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
