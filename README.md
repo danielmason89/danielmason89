@@ -44,10 +44,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
 <a href="https://github.com/microsoft/terminal" target="_blank" rel="noreferrer"><img align="left" alt="Terminal" width="40" height="40"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
- 
- <!-- <img align="left" alt="GraphQL" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-
-<!-- <img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img align="left" alt="GraphQL" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a>
+<a href="https://deno.com/" target="_blank" rel="noreferrer"><img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /></a>
 </p>
 <br />
 <br />
