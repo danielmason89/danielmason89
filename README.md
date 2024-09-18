@@ -1,6 +1,7 @@
 <h1>Hi there, I'm Daniel Mason 👋</h1>
 
 ### <h3>I'm a Full Stack Software Engineer/Life-long Learner from Canada 📚!</h3>
+
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time 
          i.e (Ruby & Ruby-on-rails, Learn More about Next.js & Vue.js, Elastic, Redis, and Python)
@@ -9,6 +10,7 @@
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 
 ## <h3 align="left">📫 Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.daniel-mason.dev/" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" /></a>
 <a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
@@ -21,6 +23,7 @@
 </details>
 
 ### <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/></a>
