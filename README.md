@@ -17,7 +17,7 @@
 <br/>
 <p align="left">
  <a href="https://twitter.com/dusmass" target="blank"><img height="32" width="32" align="center" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/simpleicons.svg" /></a>
-<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg/blue" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
 </p>
 
 ### <h3 align="left">Languages and Tools:</h3>
@@ -46,24 +46,6 @@
 <a href="https://github.com/microsoft/terminal" target="_blank" rel="noreferrer"><img align="left" alt="Terminal" width="40" height="40"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  
  <!-- <img align="left" alt="GraphQL" width="40" height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-
-<script>
-  // Check user's color scheme preference
-  const prefersLightScheme = window.matchMedia('(prefers-color-scheme: light)').matches;
-
-  // Get the image elements
-  const twitterIcon = document.getElementById('twitter-icon');
-  const linkedinIcon = document.getElementById('linkedin-icon');
-
-  // Change the image sources based on the color scheme
-  if (prefersLightScheme) {
-    twitterIcon.src = 'https://path-to-your-light-mode-twitter-icon.svg';
-    linkedinIcon.src = 'https://path-to-your-light-mode-linkedin-icon.svg';
-  } else {
-    twitterIcon.src = 'https://path-to-your-dark-mode-twitter-icon.svg';
-    linkedinIcon.src = 'https://path-to-your-dark-mode-linkedin-icon.svg';
-  }
-</script>
 
 <!-- <img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
 </p>
