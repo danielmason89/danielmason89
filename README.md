@@ -56,13 +56,11 @@
 <a href="https://azure.microsoft.com/en-ca" target="_blank" rel="noreferrer"><img alt="Azure" styles="text-align='center'" width="40" height="40" src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure" /></a>
 </p>
 
-<br/>
-
 ##
 
 <details>
 <summary>:zap: Recent Github Activity</summary>
-<!--START_SECTION:activity-->
+<img width=390 scr="https://streak-stats.demolab.com/?user=danielmason89&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 </details>
 
 <details>
