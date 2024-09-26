@@ -71,4 +71,4 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmason89.danielmason89" />
 
-### ![Typing SVG](https://typing-app-89-ab6bd9482840.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=550&color=3A7B3A&vCenter=true&width=435&lines=Thank+You+for+visiting!)
+### ![Typing SVG](https://typing-app-89-ab6bd9482840.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=550&color=3A7B3A&vCenter=true&width=435&lines=Thank+You+for+visiting!;Let's+sync+up+on+LinkedIn;I'm+always+open+to+a+good+collab)
