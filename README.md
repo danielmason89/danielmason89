@@ -23,7 +23,7 @@
 <a href="https://www.daniel-mason.dev/" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" target="_blank" /></a>
 <a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" target="_blank" /></a>
 <a href="mailto:danmasson0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?styles=for-the-badge&logo=gmail&logoColor=red" target="_blank" rel="noreferrer" padding-top="2rem" align="left"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?styles=for-the-badge&logo=gmail&logoColor=red" target="_blank" rel="noreferrer" padding-top="5rem" align="left"/>
 </a>
 
 
