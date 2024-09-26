@@ -67,4 +67,4 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmason89.danielmason89" />
 
-![snake gif](https://github.com/danielmason89/danielmason89/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/danielmason89/danielmason89/blob/output/github-contribution-grid-snake.svg)
