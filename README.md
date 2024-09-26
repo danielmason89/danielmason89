@@ -11,7 +11,7 @@
     - 👯 Always looking to collaborate with others in the field 📡
     
     - 🥅 2024 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
-    - 
+    
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
 </div>
 
