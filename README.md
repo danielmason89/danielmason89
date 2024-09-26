@@ -20,10 +20,12 @@
 <div align="center">
 
 ## <h3>📫 Connect with me:</h3>
-<a href="https://www.daniel-mason.dev/" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" /></a>
-<a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
+
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
 
+<a href="https://www.daniel-mason.dev/" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" /></a>
+
+<a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
 
 </div>
 
