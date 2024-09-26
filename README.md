@@ -26,6 +26,13 @@
     <img src="https://img.shields.io/badge/Gmail-333333?styles=for-the-badge&logo=gmail&logoColor=red" target="_blank" rel="noreferrer" padding-top="5rem" align="left"/>
 </a>
 
+<div align="center">
+    <h3>My Comtributions</h3>
+    <br/>
+<img alt="snake eating my contributions" src="https://github.com/danielmason89/danielmason89/blob/output/github-contribution-grid-snake.svg" />
+    
+    <br/><br/><br/>
+</div>
 
 ## Languages and Tools:
 
@@ -72,5 +79,3 @@
 </details>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmason89.danielmason89" />
-
-![snake gif](https://github.com/danielmason89/danielmason89/blob/output/github-contribution-grid-snake.svg)
