@@ -2,6 +2,7 @@
 
 ### <h3>An Azure Certified Full Stack Software Engineer & Life-long Learner from Canada 📚!</h3>
 
+<div>
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
     
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time 
@@ -12,6 +13,7 @@
     - 🥅 2024 Goal: Continue to further development my understanding of CI/CD and System Design Patterns
     - 
     - ⚡ Fun fact: I love ☕ coffee, coffee cake, and travelling the world 🌏
+</div>
 
 ## 📫 Connect with me:
 
