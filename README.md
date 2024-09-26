@@ -60,7 +60,7 @@
 
 <details>
 <summary>:zap: Recent Github Activity</summary>
-<img width=390 scr="https://streak-stats.demolab.com/?user=danielmason89&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+<img width=390 src="https://streak-stats.demolab.com/?user=danielmason89&count_private=true&theme=react&border_radius=10" alt="streak stats" />
 </details>
 
 <details>
