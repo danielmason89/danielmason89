@@ -17,6 +17,8 @@
     
 </div>
 
+<div align="center">
+
 ## 📫 Connect with me:
 
 <p styles="text-align='center'">
@@ -24,6 +26,8 @@
 <a href="https://twitter.com/dusmass" target="blank" rel="noreferrer"><img styles="text-align='center'" height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" rel="noreferrer"><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" styles="text-align='center'" height="30" width="40" /></a>
 </p>
+
+</div>
 
 ## Languages and Tools:
 
