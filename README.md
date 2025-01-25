@@ -7,7 +7,7 @@
     - 🌱 A Skillcrush/Savvy Coders Full-Stack Web Development Bootcamp Alumni
     
     - 👨‍💻 A life-long learner who's systemically prioritizes what to learn next in his free time 
-         i.e (Ruby & Ruby-on-rails, Learn More about Next.js & Vue.js, Elastic, Redis, and Python)
+         i.e (Python and PHP & Learn More about Next.js, Angular, Elastic, Redis, and PostgreSQL)
          
     - 👯 Always looking to collaborate with others in the field 📡
     
