@@ -1,6 +1,6 @@
 ### ![Typing SVG](https://typing-app-89-ab6bd9482840.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=550&color=3A7B3A&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Daniel+Mason)
 
-### <h3>Azure Certified Full Stack Software Developer & Life-Long Learner from Canada 📚!</h3>
+### <h3>Azure Certified Full Stack Software Developer & Life-Long Learner from Canada 🍁📚!</h3>
 
 <div>
     
