@@ -66,7 +66,7 @@
 
 <details>
  <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="Daniel Mason's GitHub Stats" src="!https://github-readme-stats.vercel.app/api/top-langs/?username=danielmason89&theme=default&show_icons=true&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmason89&theme=default&show_icons=true&hide_border=true&layout=compact" alt="danielmason89's GitHub Stats" />
 </details>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielmason89.danielmason89" />
