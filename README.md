@@ -17,6 +17,8 @@
     
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=danielmason89&theme=default&show_icons=true&hide_border=true&count_private=true" alt="danielmason89's GitHub Stats" />
+
 ## <h3>📫 Connect with me:</h3>
     
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" ><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
