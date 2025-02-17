@@ -22,7 +22,7 @@
 ## <h3>📫 Connect with me:</h3>
     
 <a href="https://www.linkedin.com/in/daniel-mason-b21675174/" target="blank" ><img src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" alt="Daniel Masons' LinkedIn" height="30" width="40" /></a>
-<a href="https://www.daniel-mason.dev/" ><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=96&q=75" target="_blank" /></a>
+<a href="https://www.daniel-mason.dev/" ><img height="30" width="30" align="left" alt="Daniel Masons' Postfolio Website" src="https://www.daniel-mason.dev/_next/image?url=%2FdanMason.png&w=128&q=75" target="_blank" /></a>
 <a href="https://twitter.com/dusmass" ><img height="30" width="30" align="left" alt="Daniel Masons' Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a>
 <a href="mailto:danmasson0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?styles=for-the-badge&logo=gmail&logoColor=red" target="_blank" rel="noreferrer" padding-top="5rem" align="left"/>
